@@ -10,10 +10,7 @@ void main()
 
     printf("Provide value of Y: ");
     scanf("%d",&y);
-  /* if (x != int || y != int )
-    {
-        printf("iinvalid");
-    }*/
+  
     printf("Do you want to provide value of Z? type 1 for yes, type 0 for no:   ");
     scanf("%d",&yn);
 
